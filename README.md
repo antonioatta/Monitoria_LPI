@@ -15,9 +15,8 @@ int soma(int, int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_
 float opera(float, float, int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/opera.c)  
 int divisores(int, int []) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/divisores.c)  
 int converte(int [], int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/converte.c)  
-float compoe(int, int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/compoe.c)  
-_**OBS**: função ainda a atualizar_  
-
+float compoe(int, int, int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/compoe.c)  
+  
 **Comparações**  
   
 int maior_de_dois(int, int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/COMPARACOES/maior_de_dois.c)  
