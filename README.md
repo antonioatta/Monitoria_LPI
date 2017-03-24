@@ -11,11 +11,11 @@ Tipos Básicos e Estruturados Homogêneos
   
 **Aritméticas**  
   
-int soma(int, int) [Ver resolução](www.google.com)  
-float opera(float, float, int) [Ver resolução](www.google.com)  
-int divisores(int, int []) [Ver resolução](www.google.com)  
-int converte(int [], int) [Ver resolução](www.google.com)  
-float compoe(int, int) [Ver resolução](www.google.com)  
+int soma(int, int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/soma.c)  
+float opera(float, float, int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/opera.c)  
+int divisores(int, int []) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/divisores.c)  
+int converte(int [], int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/converte.c)  
+float compoe(int, int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/compoe.c)  
   
 **Comparações**  
   
