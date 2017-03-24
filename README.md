@@ -16,7 +16,8 @@ float opera(float, float, int) [Ver resolução](https://github.com/kevinoliveir
 int divisores(int, int []) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/divisores.c)  
 int converte(int [], int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/converte.c)  
 float compoe(int, int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/ARITMETICAS/compoe.c)  
-  
+_**OBS**: função ainda a atualizar_  
+
 **Comparações**  
   
 int maior_de_dois(int, int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/COMPARACOES/maior_de_dois.c)  
@@ -34,7 +35,4 @@ int mais_preenchida_2(char [][]) [Ver resolução](https://github.com/kevinolive
 void diagonal_invertida(int [][]) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/MATRIZES/diagonal_invertida.c)    
 void calcula_media(int [][3], float[], int) [Ver resolução](https://github.com/kevinoliveira/Monitoria_LPI/blob/master/resolucoes/Lista%20de%20Exerc%C3%ADcios%20-%20Tipos%20B%C3%A1sicos%20e%20Estruturados%20Homog%C3%AAneos/MATRIZES/calcula_media.c)     
 
-Ponteiros Vetores Matrizes  
-----------------------------------
 
-**Em construção**  
