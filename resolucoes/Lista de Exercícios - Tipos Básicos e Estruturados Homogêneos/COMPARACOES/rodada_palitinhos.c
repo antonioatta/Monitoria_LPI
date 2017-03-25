@@ -1,10 +1,10 @@
-int rodada_palitinhos(int a[], int b[], int c){
+int rodada_palitinhos(int array_palitinhos[], int array_palpites[], int tam_array){
 	int i, palitinhos_em_jogo=0,numero_ganhador=-1;
-	for(i=0;i<c;i++)
-		palitinhos_em_jogo+=a[i];
+	for(i=0;i<tam_array;i++)
+		palitinhos_em_jogo+=array_palitinhos[i];
 	
-	for(i=0;i<c;i++){
-		if(b[i]==palitinhos_em_jogo){
+	for(i=0;i<tam_array;i++){
+		if(array_palpites[i]==palitinhos_em_jogo){
 			//primeiro jogador a acertar a contagem
 			if(numero_ganhador==-1)
 				numero_ganhador=i;

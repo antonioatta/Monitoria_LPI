@@ -1,9 +1,9 @@
-int menor_de_tres(int a, int b, int c){
+int menor_de_tres(int num_1, int num_2, int num_3){
 	int aux;
 	
-	if(a<b) aux = a;
-	else aux = b;
+	if(num_1<num_2) aux = num_1;
+	else aux = num_2;
 
-	if(aux<c) return aux;
-	else return c;
+	if(aux<num_3) return aux;
+	else return num_3;
 }

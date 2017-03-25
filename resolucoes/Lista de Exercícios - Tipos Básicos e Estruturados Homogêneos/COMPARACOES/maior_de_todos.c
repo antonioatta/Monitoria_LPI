@@ -1,7 +1,7 @@
-int maior_de_todos(int a[], int b){
+int maior_de_todos(int numeros[], int tam_array){
 	int index = 0,i;
-	for(i=0;i<b;i++){
-		if(a[i]>a[index]){
+	for(i=0;i<tam_array;i++){
+		if(numeros[i]>numeros[index]){
 			index=i;
 		}
 	}

@@ -1,4 +1,4 @@
-int mais_preenchida_2(char a[10][10]){
+int mais_preenchida_2(char matriz[10][10]){
 	int i,j;
 	int contador_linha=0,contador_couluna=0;
 	int maximo_linha=0,maximo_coluna=0;
@@ -6,7 +6,7 @@ int mais_preenchida_2(char a[10][10]){
 
 	for(i=0;i<10;i++){
 		for(j=0;j<10;j++){
-			if(a[i][j]=='*') contador_linha++;
+			if(matriz[i][j]=='*') contador_linha++;
 		}
 
 		if(contador_linha>maximo_linha){
@@ -17,7 +17,7 @@ int mais_preenchida_2(char a[10][10]){
 	}
 	for(j=0;j<10;j++){
 		for(i=0;i<10;i++){
-			if(a[i][j]=='*') contador_couluna++;
+			if(matriz[i][j]=='*') contador_couluna++;
 		}
 
 		if(contador_couluna>maximo_coluna){

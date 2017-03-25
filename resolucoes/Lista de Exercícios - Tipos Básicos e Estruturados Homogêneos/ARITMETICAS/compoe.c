@@ -1,12 +1,12 @@
-float compoe(int a, int b, int d){
-	float c = (float) b;
+float compoe(int parte_inteira, int parte_fracionaria, int zeros_pos_virgula){
+	float aux = (float) parte_fracionaria;
 	//movendo uma casa para direita até que o numero seja menor que 1
-	while(c>1) c*=0.1;
-	//"adicionado" zeros apos a virgula, movendo d casas para direita
-	while(d>0){
-		c*=0.1;
-		d--;
+	while(aux>1) aux*=0.1;
+	//"adicionado" zeros apos a virgula, movendo zeros_pos_virgula casas para direita
+	while(zeros_pos_virgula>0){
+		aux*=0.1;
+		zeros_pos_virgula--;
 	}
-	c+=(float)a;
-	return c;
+	aux+=(float)parte_inteira;
+	return aux;
 }
