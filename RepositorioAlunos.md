@@ -5,5 +5,6 @@ Matheus Tanure [Ver repositorio](https://github.com/tanurematheus/ListaTBTEH) [V
 Pedro Cardoso [Ver repositorio](https://github.com/pedrogsena/ListaTBTEH) [Ver Resolucao Tipos Básicos e Estruturados Homogêneos](https://github.com/pedrogsena/ListaTBTEH/blob/master/funcoes.c)  
 Thiago Armede [Ver repositorio](https://github.com/thiagoarmede/ListaTBTEH) [Ver Resolucao Tipos Básicos e Estruturados Homogêneos](https://github.com/thiagoarmede/ListaTBTEH/blob/master/funcoes.c)  
 Wesley Silva [Ver repositorio](https://github.com/wesleysilva2/ListaTBTEH) [Ver Resolucao Tipos Básicos e Estruturados Homogêneos](https://github.com/wesleysilva2/funcoes.c/blob/master/funcoes.c)  
+Mateus Pena [Ver repositorio](https://github.com/machado-mateus/ListaTBTEH) [Ver Resolucao Tipos Básicos e Estruturados Homogêneos](https://github.com/machado-mateus/ListaTBTEH/blob/master/funcoes.c)  
 
  
