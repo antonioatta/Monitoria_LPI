@@ -7,5 +7,7 @@ I:Thiago Armede [Ver repositorio](https://github.com/thiagoarmede/ListaTBTEH) [V
 K:Wesley Silva [Ver repositorio](https://github.com/wesleysilva2/ListaTBTEH) [Ver Resolucao Tipos Básicos e Estruturados Homogêneos](https://github.com/wesleysilva2/funcoes.c/blob/master/funcoes.c)  
 I:Mateus Pena [Ver repositorio](https://github.com/machado-mateus/ListaTBTEH) [Ver Resolucao Tipos Básicos e Estruturados Homogêneos](https://github.com/machado-mateus/ListaTBTEH/blob/master/funcoes.c)  
 K:Diego Santos [Ver repositorio](https://github.com/DioHX/ListaTBTEH) [Ver Resolucao Tipos Básicos e Estruturados Homogêneos](https://github.com/DioHX/ListaTBTEH/blob/master/FUNCOES_LP1.c)  
+I:Pedro Rosario [Ver repositorio](https://github.com/pedrorosarioo/ListaTBTEH) [Ver Resolucao Tipos Básicos e Estruturados Homogêneos](https://github.com/pedrorosarioo/ListaTBTEH/blob/master/LISTA1%20ATTA.c)  
+K:Glauber silva [Ver repositorio](https://github.com/gau1210/ListaTBTEH) [Ver Resolucao Tipos Básicos e Estruturados Homogêneos](https://github.com/gau1210/ListaTBTEH/blob/master/Soma.c)  
 
  
